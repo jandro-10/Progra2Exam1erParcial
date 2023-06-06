@@ -14,7 +14,7 @@ do
 {
 
     Console.WriteLine("\n*** Menu ***");
-    Console.WriteLine("Eliga una opcion");
+    Console.WriteLine("Elija una opcion");
 
     Console.WriteLine("1 - Medio de Transporte Terrestre");
     Console.WriteLine("2 - Medio de Transporte Aereo");
